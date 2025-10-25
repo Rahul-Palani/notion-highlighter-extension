@@ -58,7 +58,8 @@ A Chrome extension (Manifest V3) that allows you to highlight text on any webpag
 - Chrome Extensions API
 - Notion API v2022-06-28
 - Vanilla JavaScript
+Backlog
+-fix issues with delete button
 
 ## License
-
 MIT
